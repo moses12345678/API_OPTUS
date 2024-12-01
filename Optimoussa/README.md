@@ -1,5 +1,4 @@
 # Creating a README.md file content for the project
-readme_content = """
 # Optimoussa - API Benchmarking and Optimization
 
 Optimoussa is a Django-based API benchmarking and optimization tool. It uses Apache Benchmark (ab) to evaluate API performance, providing insights and recommendations for improvement. The project is paired with a React frontend for an intuitive user experience.
